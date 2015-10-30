@@ -7,7 +7,7 @@
 //
 
 import XCTest
-import Birthdays
+@testable import Birthdays
 import CoreData
 
 class PeopleListDataProviderTests: XCTestCase {
